@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Meu Perfil";
+}
+
+<div class="container d-flex justify-content-center align-items-center min-vw-100">
+    <div class="w-100" style="max-width:700px;">
+        <h3 class="text-uppercase fw-bold mb-4 text-center" style="color:#4d4d4d;">MEU PERFIL</h3>
+
+        <div class="border border-danger rounded p-4">
+            <!-- Cabeçalho com ícone e nome -->
+            <div class="d-flex align-items-center border-bottom border-danger pb-3 mb-3">
+                <i class="bi bi-person-circle text-danger fs-1 me-3"></i>
+                <h4 class="fw-bold mb-0">Valdemir de Assis Pedro</h4>
+            </div>
+
+            <!-- Informações pessoais -->
+            <h5 class="fw-bold mb-3">INFORMAÇÕES PESSOAIS</h5>
+            <div class="mb-2">
+                <strong>E- MAIL:</strong>
+                <span class="text-muted ms-2">ValPedro.Assis@gmail.com</span>
+            </div>
+            <div class="mb-2">
+                <strong>Endereço:</strong>
+                <span class="text-muted ms-2">R. Luís Santiago, 93, Igaraçu do Tietê - SP,</span>
+            </div>
+            <div class="mb-2">
+                <strong>Telefone:</strong>
+                <span class="text-muted ms-2">(14) 99999-9999</span>
+            </div>
+            <div class="mb-2">
+                <strong>CPF:</strong>
+                <span class="text-muted ms-2">342.424.508-92</span>
+            </div>
+            <div class="mb-4">
+                <strong>Gênero:</strong>
+                <span class="text-muted ms-2">Homem</span>
+            </div>
+
+            <div class="text-center">
+                <a asp-action="Index" asp-controller="Home" class="btn btn-danger px-4">Voltar</a>
+            </div>
+        </div>
+    </div>
+</div>

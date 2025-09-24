@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Moda Esportiva";
+}
+
+<style>
+    /* Remove margens e garante largura total */
+    html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    .banner-full {
+        width: 100vw;
+        height: auto;
+        display: block;
+    }
+
+    .gallery-container {
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+    }
+
+    .gallery-row img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    /* Remove limites de container padrão */
+    .container, .container-fluid {
+        max-width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    /* Banner ocupa 100% da tela */
+    .banner-full {
+        width: 100vw !important;
+        height: auto;
+        display: block;
+    }
+
+    /* Galeria de produtos ocupa 100% */
+    .gallery-full {
+        width: 100vw !important;
+        margin: 0 !important;
+        padding: 0 2vw !important; /* espaço lateral opcional */
+    }
+
+        .gallery-full .card img {
+            width: 100% !important;
+            height: auto;
+            object-fit: cover;
+        }
+</style>
+
+<div class="container-fluid p-0">
+
+    <!-- Banner principal ocupando 100% da tela -->
+    <div class="row g-0">
+        <img src="~/img/bannerHome.png" class="banner-full" alt="Shape Design">
+    </div>
+
+    <!-- Galeria de produtos ocupando 100% da largura -->
+    <div class="gallery-container my-5">
+        <div class="row g-4 gallery-row mx-0 px-4">
+            <div class="col-6 col-md-3">
+                <div class="card border-0">
+                    <img src="~/img/corrida roupa 1 1.png" alt="Produto 1">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="card border-0">
+                    <img src="~/img/academia roupa 1 1.png" alt="Produto 2">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="card border-0">
+                    <img src="~/img/Design sem nome (1) 1.png" alt="Produto 3">
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="card border-0">
+                    <img src="~/img/futebol roupa 1 1.png" alt="Produto 4">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
