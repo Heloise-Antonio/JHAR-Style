@@ -1,83 +1,194 @@
-﻿<!DOCTYPE html>
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resumo da Compra</title>
+    <title>Produto</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" />
     <style>
-        .resumo-box {
-            border: 2px solid #900;
-            padding: 20px;
-            max-width: 600px;
-            margin: 40px auto;
+        body {
+            background-color: #fff;
         }
 
-        .produto {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
+
+        /* Top bar (logo + busca + ícones) */
+        .top-bar {
+            background-color: #fff;
             border-bottom: 2px solid #900;
-            padding-bottom: 15px;
         }
 
-            .produto img {
-                width: 100px;
-                height: auto;
-                object-fit: cover;
-                border: 1px solid #ccc;
+            .top-bar .nav-link {
+                color: #900 !important;
+                font-weight: 700;
             }
 
-        .btn-custom {
+                .top-bar .nav-link:hover {
+                    color: #900 !important;
+                }
+
+        /* Info bar */
+        .info-bar {
             background-color: #900;
             color: #fff;
-            padding: 8px 30px;
-            border: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 5px 15px;
+            box-sizing: border-box;
         }
 
-            .btn-custom:hover {
+            .info-bar i {
+                margin-right: 5px;
+            }
+
+        /* Produto */
+        .product-container {
+            max-width: 900px;
+            margin: 40px auto;
+            display: flex;
+            gap: 40px;
+            align-items: flex-start;
+        }
+
+        .product-image img {
+            width: 300px;
+            border: 1px solid #ccc;
+        }
+
+        .product-details h3 {
+            font-weight: 600;
+        }
+
+        .product-details p.price {
+            font-weight: 700;
+            font-size: 1.5rem;
+            margin: 10px 0;
+        }
+
+        .sizes button {
+            border: 1px solid #000;
+            background: none;
+            margin-right: 5px;
+            padding: 5px 10px;
+            font-weight: 600;
+        }
+
+            .sizes button:hover {
+                background-color: #900;
+                color: #fff;
+                border-color: #900;
+            }
+
+        .btn-buy {
+            background-color: #900;
+            color: #fff;
+            border: none;
+            padding: 10px 25px;
+            margin-right: 10px;
+        }
+
+            .btn-buy:hover {
                 background-color: #700;
+            }
+
+        .btn-cart {
+            border: 1px solid #900;
+            color: #900;
+            background: none;
+            padding: 10px 25px;
+        }
+
+            .btn-cart:hover {
+                background-color: #900;
+                color: #fff;
             }
     </style>
 </head>
-<body class="bg-white">
+<body>
 
-    <div class="resumo-box min-vw-100 d-flex flex-column justify-content-center align-content-center">
-        <!-- Produto -->
-        <div class="produto">
-            <img src="~/img//verde.png" alt="Conjunto Verde Ciano">
-            <div>
-                <h5 class="mb-1">Conjunto Verde Ciano</h5>
-                <p class="mb-1 fw-bold">R$ 250,90</p>
-                <p class="mb-0">Tam: P</p>
+    <!-- Top bar com logo, busca e ícones -->
+    <div class="container-fluid py-2 top-bar">
+        <div class="d-flex align-items-center justify-content-between">
+            <!-- Logo -->
+            <div class="d-flex align-items-center">
+                <img src="~/img/logo.png" alt="Jhar Style" style="height:40px;" class="me-2">
+                <div class="fw-bold text-uppercase">
+                    JHAR <span class="text-danger">STYLE</span><br />
+                    <small class="text-muted">Estilo que acompanha seu ritmo</small>
+                </div>
+            </div>
+            <!-- Barra de busca -->
+            <div class="flex-grow-1 mx-4">
+                <form class="d-flex">
+                    <div class="input-group">
+                        <input class="form-control border-danger" type="search" placeholder="Buscar..." aria-label="Search">
+                        <button class="btn btn-danger" type="submit"><i class="bi bi-search text-white"></i></button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Ícones -->
+            <div class="d-flex align-items-center">
+                <div>
+                    <a asp-controller="Home" asp-action="Register" class="btn btn-danger px-4">Registrar</a>
+                    <a asp-controller="Home" asp-action="Login" class="btn btn-danger px-4">Entrar</a>
+                    <a asp-controller="Home" asp-action="Perfil" class="text-dark me-3"><i class="bi bi-person fs-4"></i></a>
+                </div>
+                <a href="#" class="text-dark me-3"><i class="bi bi-cart fs-4"></i></a>
+                <a href="#" class="text-dark"><i class="bi bi-arrow-clockwise fs-4"></i></a>
             </div>
         </div>
+    </div>
 
-        <!-- Detalhes -->
-        <div class="mb-2">
-            <strong>CEP:</strong> <span class="text-secondary ms-2">17402-120</span>
-        </div>
-        <div class="mb-2">
-            <strong>Endereço:</strong> <span class="text-secondary ms-2">R. Luís Santiago, 93, Igaraçu do Tietê - SP</span>
-        </div>
-        <div class="mb-2">
-            <strong>Forma de Pagamento:</strong>
-            <span class="ms-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png" alt="Visa" style="height:20px;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png" alt="Master" style="height:20px;">
-            </span>
-        </div>
-        <div class="mb-2">
-            <strong>Frete:</strong> <span class="text-secondary ms-2">R$ 12,00</span>
-        </div>
-        <div class="mb-3">
-            <strong>Total:</strong> <span class="text-secondary ms-2">R$ 262,90</span>
-        </div>
 
-        <!-- Botões --> 
-        <div class="d-flex justify-content-between mt-4">
-            <button class="btn-custom">Voltar</button>
-            <button class="btn-custom">Finalizar</button>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-sm navbar-custom">
+        <div class="container justify-content-center">
+            <ul class="navbar-nav">
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="Index" asp-controller="Home">Inicio</a></li>
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="ProdutosAcademia" asp-controller="Home">Academia</a></li>
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="ProdutosBeachTenis" asp-controller="Home">Beach Tennis</a></li>
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="ProdutosFutebol" asp-controller="Home">Futebol</a></li>
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="ProdutosCorrida" asp-controller="Home">Corrida</a></li>
+                <li class="nav-item px-3"><a class="nav-link fw-semibold" asp-action="ProdutosNatacao" asp-controller="Home">Natação</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Info bar -->
+    <div class="info-bar d-flex justify-content-center gap-5">
+        <div><i class="bi bi-credit-card"></i>Parcelamento até 3x sem juros</div>
+        <div><i class="bi bi-truck"></i>Frete grátis a partir de R$ 299 em compras</div>
+    </div>
+
+    <!-- Produto -->
+    <div class="product-container">
+        <div class="product-image">
+            <img src="~/img/verde.png" alt="Conjunto Verde Ciano">
+        </div>
+        <div class="product-details">
+            <h3>Conjunto Verde Ciano</h3>
+            <p class="price">R$ 250,90</p>
+            <p>Conforto e estilo para seus treinos. Composto por top, jaqueta cropped de manga longa e short de cintura alta, o conjunto é feito em tecido leve, elástico e respirável. Ideal para atividades físicas, oferece ótimo caimento, sustentação e liberdade de movimento.</p>
+
+            <!-- Tamanhos -->
+            <div class="sizes mb-3">
+                <button>PP</button>
+                <button>P</button>
+                <button>M</button>
+                <button>G</button>
+                <button>GG</button>
+            </div>
+
+            <!-- Botões -->
+            <div class="buttons">
+                <button type="button" class="btn-buy" onclick="window.location.href='FinalizarCompra'">Comprar Agora</button>
+                <button class="btn-cart">Adicionar Ao Carrinho 🛒</button>
+            </div>
         </div>
     </div>
 
