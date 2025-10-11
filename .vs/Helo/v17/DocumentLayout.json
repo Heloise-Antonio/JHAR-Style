@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosBeachTenis.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosBeachTenis.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:54:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutosAcademia.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosAcademia.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:45:09.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:56:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:55:59.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:08:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:18:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutosNatacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosNatacao.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:54:39.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutosFutebol.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosFutebol.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:54:09.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutosCorrida.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\ProdutosCorrida.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:55:17.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:45:06.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:45:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwE8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:33:25.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Carrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Carrinho.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:15:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Detalhes.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAwMIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:14:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T23:29:12.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T23:10:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinalFront\\ProjetoFinalFront\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:07:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs",
+              "RelativeDocumentMoniker": "heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs",
+              "ToolTip": "C:\\Users\\narki\\OneDrive\\\u00C1rea de Trabalho\\Helo\\heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs",
+              "RelativeToolTip": "heloo\\ProjetoFinal_API\\ProjetoFinal_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:57:07.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
